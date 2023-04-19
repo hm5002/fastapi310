@@ -1,0 +1,7 @@
+ffmpeg
+fastapi
+mediapipe
+opencv-python
+python-multipart
+uvicorn
+jinja2
